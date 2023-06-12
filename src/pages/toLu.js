@@ -72,7 +72,7 @@ export default function ToGabi(){
 
 const ToGabiStyle = styled.div`
 background-color: #FE3253;
-font-family: 'Comfortaa', sans-serif;
+font-family: 'Comfortaa', cursive;
 width: 100%;
 height: 100%;
 display: flex;
