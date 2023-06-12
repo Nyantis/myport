@@ -35,7 +35,7 @@ export default function ToGabi(){
         "obrigado por conseguir me amar do jeito que sou",
         "eu te amo muito e espero que você entenda isso",
         "e...",
-        "gostaria de renovar nosso namoro por mais um ano? (◉ω◉)",
+        "gostaria de renovar nosso namoro/casamento por mais um ano? (pra vida toda é melhor) (◉ω◉)",
     ]
     const max = allMessages.length -1
 
